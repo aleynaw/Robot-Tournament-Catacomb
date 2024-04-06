@@ -1,0 +1,54 @@
+Mono path[0] = '/Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.40f1 (ba48d4efcef1)
+[Subsystems] Discovering subsystems at path /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Resources/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+2024-04-05 10:39:23.227 Final Project Testing V2[3522:6289370] (null) preferred device: Apple M1 (high power)
+2024-04-05 10:39:23.227 Final Project Testing V2[3522:6289370] Metal devices available: 1
+2024-04-05 10:39:23.227 Final Project Testing V2[3522:6289370] 0: Apple M1 (high power)
+2024-04-05 10:39:23.228 Final Project Testing V2[3522:6289370] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.169 seconds
+UnloadTime: 2.947375 ms
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Couldn't connect to trainer on port 5005 using API version 1.5.0. Will perform inference instead.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 30dc1b000 -> priority: 1 
+  Thread -> id: 30dc9e000 -> priority: 1 
+  Thread -> id: 30dfa7000 -> priority: 1 
+  Thread -> id: 30dd21000 -> priority: 1 
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/aleynawarner/lab7to9-robot-tournament-main/Catacomb.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
