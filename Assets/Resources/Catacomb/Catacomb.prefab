@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 4275725191425983409}
   - component: {fileID: 4275725191425983411}
   - component: {fileID: -8653291350500256596}
+  - component: {fileID: 8829910294187954227}
   m_Layer: 0
   m_Name: Catacomb
   m_TagString: Player
@@ -63,7 +64,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4275725191425983413}
-  m_Mesh: {fileID: -2432090755550338912, guid: 43760bb0bac97fc45b51cccb3310be61, type: 3}
+  m_Mesh: {fileID: 289301614986012343, guid: b4e6e10d17d59f7489ad27adde621029, type: 3}
 --- !u!23 &4275725191425983405
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -224,6 +225,23 @@ MonoBehaviour:
   NumStepsToRecord: 0
   DemonstrationName: RegTech
   DemonstrationDirectory: Demos
+--- !u!111 &8829910294187954227
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4275725191425983413}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7257139999454155946, guid: b4e6e10d17d59f7489ad27adde621029,
+    type: 3}
+  m_Animations:
+  - {fileID: 7257139999454155946, guid: b4e6e10d17d59f7489ad27adde621029, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &4275725191576875384
 GameObject:
   m_ObjectHideFlags: 0
