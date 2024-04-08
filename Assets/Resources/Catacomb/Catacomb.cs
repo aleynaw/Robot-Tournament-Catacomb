@@ -10,10 +10,13 @@ public class Catacomb : CogsAgent
     // ------------------BASIC MONOBEHAVIOR FUNCTIONS-------------------
     
     // Initialize values
+
+    private int carry;
     protected override void Start()
     {
         base.Start();
         AssignBasicRewards();
+        carry = 0;
     }
 
     // For actual actions in the environment (e.g. movement, shoot laser)
@@ -24,6 +27,12 @@ public class Catacomb : CogsAgent
         LaserControl();
         // Movement based on DirToGo and RotateDir
         moveAgent(dirToGo, rotateDir);
+
+        //d=√((x_2-x_1)²+(y_2-y_1)²)
+
+        DistanceIncentive(); 
+        
+
 
         
     }
@@ -132,47 +141,88 @@ public class Catacomb : CogsAgent
     // Called when object collides with or trigger (similar to collide but without physics) other objects
     protected override void OnTriggerEnter(Collider collision)
     {
+        base.OnTriggerEnter(collision);
         
         if (collision.gameObject.CompareTag("HomeBase") && collision.gameObject.GetComponent<HomeBase>().team == GetTeam())
         {
+            AddReward(carry * 0.8f);
+            Debug.Log("Adding this much reward: "+ carry * 0.8f);
+            carry = 0;
+
             if (CheckWinning()) {
                 Debug.Log("Winning? Yes!");
-                rewardDict["shooting-laser"] = 5.0f;
-                rewardDict["hit-enemy"] = 10.0f;
+                Debug.Log("Adjusting attack rewards...");
+                rewardDict["shooting-laser"] = 0.9f;
+                rewardDict["hit-enemy"] = 1.0f;
             }
             else {
                 Debug.Log("Winning? Nope!");
-                rewardDict["shooting-laser"] = -10.0f;
             }
 
-            AddReward(GetCarrying() * 0.5f);
+            
+
             // stop re-picking up targets in base LOL
-             if (collision.gameObject.CompareTag("Target") && collision.gameObject.GetComponent<Target>().GetInBase() != GetTeam() && collision.gameObject.GetComponent<Target>().GetCarried() == 0 && !IsFrozen())
+            //  if (collision.gameObject.CompareTag("Target") && collision.gameObject.GetComponent<Target>().GetInBase() != GetTeam() && collision.gameObject.GetComponent<Target>().GetCarried() == 0 && !IsFrozen())
+            // {
+            //     AddReward(-0.1f);
+            // }
+
+            if (collision.gameObject.CompareTag("HomeBase") && collision.gameObject.GetComponent<HomeBase>().team == GetTeam()) 
             {
-                AddReward(-1.0f);
+            //     if (myBase.GetComponent<HomeBase>().GetCaptured() == 0) {
+            //        AddReward(-0.4f);
+            //        Debug.Log("Stop coming back without balls");
+            //        Debug.Log("Reward added: " + -0.4f);
+            //  }
+            
             }
 
 
 
         }
-        base.OnTriggerEnter(collision);
+        
 
         
     }
 
     protected override void OnCollisionEnter(Collision collision) 
     {
+        base.OnCollisionEnter(collision);
         
 
         //target is not in my base and is not being carried and I am not frozen
-        if (collision.gameObject.CompareTag("Target") && collision.gameObject.GetComponent<Target>().GetInBase() != GetTeam() && collision.gameObject.GetComponent<Target>().GetCarried() == 0 && !IsFrozen())
+        // if (collision.gameObject.CompareTag("Target") && collision.gameObject.GetComponent<Target>().GetInBase() != GetTeam() && collision.gameObject.GetComponent<Target>().GetCarried() == 0 && !IsFrozen())
+        // {
+
+            
+        //     AddReward(0.5f);
+        //     Debug.Log("You picked up a ball!");
+        //     Debug.Log("Reward added: " + 0.5f);
+
+        //     if(GetCarrying() > 3) {
+        //         SetReward(-0.1f);
+        //         Debug.Log("Try not to carry more than 3 balls");
+        //         Debug.Log("Reward set: " + -0.1f);
+        //     }
+
+            
+
+           
+        // }
+
+        if (collision.gameObject.CompareTag("Target") && collision.gameObject.GetComponent<Target>().GetInBase() != GetTeam() && !IsFrozen())
         {
 
             
-            AddReward(1.0f);
+            AddReward(0.5f);
+            carry++;
+            Debug.Log("You picked up a ball!");
+            Debug.Log("Reward added: " + 0.5f);
 
             if(GetCarrying() > 3) {
-                SetReward(-0.3f);
+                AddReward(-0.5f);
+                Debug.Log("Try not to carry more than 3 balls");
+                Debug.Log("Reward added: " + -0.5f);
             }
 
             
@@ -182,23 +232,33 @@ public class Catacomb : CogsAgent
 
         if (collision.gameObject.CompareTag("Wall"))
         {
-            AddReward(-0.3f);
+            AddReward(-0.1f);
+            Debug.Log("Avoid the wall");
+            Debug.Log("Reward added: " + -0.1f);
         }
-        base.OnCollisionEnter(collision);
+        
     }
 
     void OnTriggerExit(Collider collision)
     {
         if (collision.gameObject.CompareTag("HomeBase") && collision.gameObject.GetComponent<HomeBase>().team == GetTeam()) 
         {
-            if (myBase.GetComponent<HomeBase>().GetCaptured() == 0) {
-                AddReward(5.0f);
-                Debug.Log("Yay! You left your base!");
-            }
+            // if (myBase.GetComponent<HomeBase>().GetCaptured() == 0) {
+            //     SetReward(0.3f);
+            //     Debug.Log("Yay! You left your base!");
+            // }
             
         }
         // base.OnTriggerExit(collision);
         
+    }
+
+    void OnCollisionStay(Collision collisionInfo)
+    {
+        if (myBase.GetComponent<HomeBase>().GetCaptured() == 0) {
+                SetReward(-0.1f);
+                Debug.Log("Leave bro");
+            }
     }
 
 
@@ -208,11 +268,11 @@ public class Catacomb : CogsAgent
         rewardDict = new Dictionary<string, float>();
 
         rewardDict.Add("frozen", -0.1f);
-        rewardDict.Add("shooting-laser", -10.0f);
-        rewardDict.Add("hit-enemy", 1.0f);
-        rewardDict.Add("dropped-one-target", 1.0f);
+        rewardDict.Add("shooting-laser", 0f);
+        rewardDict.Add("hit-enemy", 0.5f);
+        rewardDict.Add("dropped-one-target", 0f);
         rewardDict.Add("dropped-targets", 0f);
-        rewardDict.Add("dropped-targets-base", 1.0f);
+        // rewardDict.Add("dropped-targets-base", 1.0f);
     }
     
     private void MovePlayer(int forwardAxis, int rotateAxis, int shootAxis, int goToTargetAxis, int goToBaseAxis)
@@ -352,4 +412,52 @@ public class Catacomb : CogsAgent
 
         return false; 
     }
+
+    private void DistanceIncentive() {
+
+        if (GetCarrying() < 2) {
+
+        var distance = 1/DistanceToTarget() *0.1f;
+        AddReward(distance);
+        
+        Debug.Log("Getting closer... + " + distance);
+
+        }
+
+        if (GetCarrying() >= 2) {
+        var baseDist = 1/DistanceToBase() * 0.1f;
+        AddReward(baseDist);
+
+        Debug.Log("Heading home... + " + baseDist);
+
+        }
+
+        if (CheckWinning()) {
+
+            CogsAgent enemyAgent = enemy.GetComponent<CogsAgent>();
+
+            float dist = Vector3.Distance(enemyAgent.transform.localPosition, this.transform.localPosition);
+
+            var enemDist = 1/dist * 0.1f;
+            AddReward(enemDist);
+
+            Debug.Log("ATTACKKKK!!!!!");
+
+        }
+    }
+
+    private float DistanceToTarget() {
+
+
+        float dist = Vector3.Distance(GetNearestTarget().transform.localPosition, this.transform.localPosition);
+
+        if (dist <= 1.0f) {
+            dist = 1.0f;
+        }
+
+        return dist;
+    }
+
+    
+
 }

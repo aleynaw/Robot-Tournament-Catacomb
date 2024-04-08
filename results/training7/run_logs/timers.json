@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1712450579",
+        "python_version": "3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\aleyn\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\mlagents-learn config/agent_config.yaml --run-id=training7 --env=bobthebuilder/Final Project Testing V3 --num-envs=6",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1712450582"
+    },
+    "total": 2.8933207000000003,
+    "count": 1,
+    "self": 0.8047414000000002,
+    "children": {
+        "run_training.setup": {
+            "total": 0.4845735,
+            "count": 1,
+            "self": 0.4845735
+        },
+        "TrainerController.start_learning": {
+            "total": 1.6040058,
+            "count": 1,
+            "self": 0.00038980000000066184,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 1.6035868999999998,
+                    "count": 1,
+                    "self": 1.6035868999999998
+                },
+                "trainer_threads": {
+                    "total": 7.999999995789153e-07,
+                    "count": 1,
+                    "self": 7.999999995789153e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 2.8299999999870096e-05,
+                    "count": 1,
+                    "self": 2.8299999999870096e-05
+                }
+            }
+        }
+    }
+}

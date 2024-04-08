@@ -1,0 +1,6680 @@
+Mono path[0] = 'C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Managed'
+Mono config path = 'C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.40f1 (ba48d4efcef1)
+[Subsystems] Discovering subsystems at path C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   31.0.15.3623
+FMOD failed to initialize any audio devices, running on emulated software output with no sound. Please check your audio drivers and/or hardware for malfunction.
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.066 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.143300 ms
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Failed to load 'libdl', expected x64 architecture, but was Unknown architecture. You must recompile your plugin for x64 architecture.
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Failed to load 'libdl', expected x64 architecture, but was Unknown architecture. You must recompile your plugin for x64 architecture.
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Agent 2 wins by capture
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 2
+Winning? Nope!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 3
+They have: 1
+Winning? Yes!
+We have: 3
+They have: 1
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 0
+Winning? Yes!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 3
+They have: 2
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 4
+They have: 0
+Winning? Yes!
+We have: 4
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 0
+Winning? Yes!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+We have: 2
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 3
+They have: 3
+Winning? Nope!
+Agent 2 wins by carry
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 3
+Winning? Nope!
+We have: 1
+They have: 3
+Winning? Nope!
+We have: 1
+They have: 3
+Winning? Nope!
+We have: 1
+They have: 3
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 2
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 2
+Winning? Nope!
+We have: 1
+They have: 2
+Winning? Nope!
+Agent 1 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 3
+They have: 0
+Winning? Yes!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 3
+Winning? Nope!
+Yay! You left your base!
+We have: 2
+They have: 3
+Winning? Nope!
+We have: 2
+They have: 3
+Winning? Nope!
+We have: 2
+They have: 3
+Winning? Nope!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+We have: 1
+They have: 1
+Winning? Nope!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by distance
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 1
+They have: 0
+Winning? Yes!
+We have: 1
+They have: 0
+Winning? Yes!
+Agent 1 wins by capture
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 1 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by carry
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+Draw!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Agent 2 wins by capture
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Draw!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+Agent 2 wins by capture
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Agent 2 wins by carry
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 1
+Winning? Nope!
+Agent 2 wins by capture
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Yay! You left your base!
+We have: 0
+They have: 0
+Winning? Nope!
+Unable to save timers to file C:/Users/aleyn/devland/300/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data\ML-Agents\Timers\AgentTraining_timers.json
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 56cc -> priority: 1 
+  Thread -> id: 735c -> priority: 1 
+  Thread -> id: 76d4 -> priority: 1 

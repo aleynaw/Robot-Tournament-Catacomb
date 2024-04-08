@@ -27,21 +27,39 @@
                 "auxillary_file_paths": [
                     "results/training2/Agent/Agent-823132.pt"
                 ]
+            },
+            {
+                "steps": 849990,
+                "file_path": "results\\training2\\Agent\\Agent-849990.onnx",
+                "reward": -4189.799980640411,
+                "creation_time": 1712440671.7351513,
+                "auxillary_file_paths": [
+                    "results\\training2\\Agent\\Agent-849990.pt"
+                ]
+            },
+            {
+                "steps": 899986,
+                "file_path": "results\\training2\\Agent\\Agent-899986.onnx",
+                "reward": 100.14168333510558,
+                "creation_time": 1712441029.0429804,
+                "auxillary_file_paths": [
+                    "results\\training2\\Agent\\Agent-899986.pt"
+                ]
             }
         ],
         "final_checkpoint": {
-            "steps": 823132,
-            "file_path": "results/training2/Agent.onnx",
-            "reward": null,
-            "creation_time": 1712358593.3910248,
+            "steps": 899986,
+            "file_path": "results\\training2\\Agent.onnx",
+            "reward": 100.14168333510558,
+            "creation_time": 1712441029.0429804,
             "auxillary_file_paths": [
-                "results/training2/Agent/Agent-823132.pt"
+                "results\\training2\\Agent\\Agent-899986.pt"
             ]
         }
     },
     "metadata": {
         "stats_format_version": "0.3.0",
         "mlagents_version": "0.28.0",
-        "torch_version": "1.8.0.post3"
+        "torch_version": "1.7.1+cu110"
     }
 }
