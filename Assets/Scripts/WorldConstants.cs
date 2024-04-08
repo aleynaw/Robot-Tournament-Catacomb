@@ -4,5 +4,5 @@
     // For Training: agent1ID and agent2ID should both be set to your group name
     
     public const string agent1ID = "Catacomb";
-    public const string agent2ID = "Catacomb";
+    public const string agent2ID = "TA_Example_1";
 }
