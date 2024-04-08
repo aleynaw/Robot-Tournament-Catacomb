@@ -1,0 +1,66 @@
+{
+    "Agent": {
+        "elo": 430.13216857025395,
+        "checkpoints": [
+            {
+                "steps": 1529672,
+                "file_path": "results\\training16\\Agent\\Agent-1529672.onnx",
+                "reward": null,
+                "creation_time": 1712562968.2082646,
+                "auxillary_file_paths": [
+                    "results\\training16\\Agent\\Agent-1529672.pt"
+                ]
+            },
+            {
+                "steps": 1565156,
+                "file_path": "results\\training16\\Agent\\Agent-1565156.onnx",
+                "reward": 552.4760267939419,
+                "creation_time": 1712563136.617631,
+                "auxillary_file_paths": [
+                    "results\\training16\\Agent\\Agent-1565156.pt"
+                ]
+            },
+            {
+                "steps": 1575422,
+                "file_path": "results\\training16\\Agent\\Agent-1575422.onnx",
+                "reward": null,
+                "creation_time": 1712563179.5637045,
+                "auxillary_file_paths": [
+                    "results\\training16\\Agent\\Agent-1575422.pt"
+                ]
+            },
+            {
+                "steps": 3999974,
+                "file_path": "results\\training16\\Agent\\Agent-3999974.onnx",
+                "reward": null,
+                "creation_time": 1712599976.4563694,
+                "auxillary_file_paths": [
+                    "results\\training16\\Agent\\Agent-3999974.pt"
+                ]
+            },
+            {
+                "steps": 4390388,
+                "file_path": "results\\training16\\Agent\\Agent-4390388.onnx",
+                "reward": null,
+                "creation_time": 1712601751.0532346,
+                "auxillary_file_paths": [
+                    "results\\training16\\Agent\\Agent-4390388.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4390388,
+            "file_path": "results\\training16\\Agent.onnx",
+            "reward": null,
+            "creation_time": 1712601751.0532346,
+            "auxillary_file_paths": [
+                "results\\training16\\Agent\\Agent-4390388.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}
