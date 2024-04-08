@@ -1,0 +1,583 @@
+Mono path[0] = 'C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Managed'
+Mono config path = 'C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.40f1 (ba48d4efcef1)
+[Subsystems] Discovering subsystems at path C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6900 XT (ID=0x73af)
+    Vendor:   
+    VRAM:     16338 MB
+    Driver:   31.0.12027.9001
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.094 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+UnloadTime: 0.547600 ms
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data/Mono/libSystem.dylib
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 1.5
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 3
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Agent 2 wins by capture
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Agent 1 wins by capture
+Reward for Balls to Base: + 3
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 2
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Agent 1 wins by capture
+Reward for Balls to Base: + 1
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Agent 2 wins by carry
+Reward for Balls to Base: + 1
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 2
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 0
+Agent 2 wins by capture
+Reward for Balls to Base: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for Balls to Base: + 0
+Reward for Balls to Base: + 0
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Agent 2 wins by capture
+Reward for Balls to Base: + 1.5
+Reward for Balls to Base: + 0
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for collecting ball: + 0.5
+Reward for Balls to Base: + 2
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Reward for collecting ball: + 0.5
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Penalty for hitting wall: --0.1
+Unable to save timers to file C:/Users/Andre/devland/lab7to9-robot-tournament-main/bobthebuilder/Final Project Testing V2_Data\ML-Agents\Timers\AgentTraining_timers.json
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: 6a3c -> priority: 1 
+  Thread -> id: 5074 -> priority: 1 
+  Thread -> id: 76a0 -> priority: 1 
+  Thread -> id: 75c4 -> priority: 1 
+  Thread -> id: 735c -> priority: 1 
+  Thread -> id: 2d04 -> priority: 1 
+  Thread -> id: 5728 -> priority: 1 
+  Thread -> id: 72fc -> priority: 1 
+  Thread -> id: 779c -> priority: 1 
+  Thread -> id: 6318 -> priority: 1 
+  Thread -> id: 75f0 -> priority: 1 
+  Thread -> id: 2608 -> priority: 1 
