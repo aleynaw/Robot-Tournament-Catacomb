@@ -95,7 +95,7 @@ public class Catacomb : CogsAgent
 
         rewardDict = new Dictionary<string, float>();
 
-        rewardDict.Add("frozen", -0.1f);
+        rewardDict.Add("frozen", -0.3f);
         rewardDict.Add("shooting-laser", 0f);
         rewardDict.Add("hit-enemy", 0.5f);
     }
@@ -113,8 +113,7 @@ public class Catacomb : CogsAgent
             Debug.Log("Adjusting attack rewards...");
             rewardDict["shooting-laser"] = 0.01f;
             rewardDict["hit-enemy"] = 1.0f;
-        }
-        else {
+        } else {
             Debug.Log("Winning? Nope!");
             rewardDict["shooting-laser"] = 0.0f;
             rewardDict["hit-enemy"] = 0.5f;
@@ -151,7 +150,7 @@ public class Catacomb : CogsAgent
 
         if (collision.gameObject.CompareTag("Wall"))
         {
-            var reward = -0.1f;
+            var reward = -0.3f;
             AddReward(reward);
             Debug.Log("Penalty for hitting wall: -" + reward);
         }
